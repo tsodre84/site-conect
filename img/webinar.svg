@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <g id="Grupo_2" data-name="Grupo 2" transform="translate(-131 -36)">
+    <g id="Elipse_1" data-name="Elipse 1" transform="translate(131 36)" fill="#0b0a31" stroke="#707070" stroke-width="1">
+      <circle cx="64" cy="64" r="64" stroke="none"/>
+      <circle cx="64" cy="64" r="63.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-video" data-name="Icon awesome-video" d="M38.634,4.5H5.493A5.493,5.493,0,0,0,0,9.993V43.134a5.493,5.493,0,0,0,5.493,5.493H38.634a5.493,5.493,0,0,0,5.493-5.493V9.993A5.493,5.493,0,0,0,38.634,4.5ZM60.4,8.832,47.8,17.52V35.607L60.4,44.283a3.685,3.685,0,0,0,5.792-2.965V11.8A3.686,3.686,0,0,0,60.4,8.832Z" transform="translate(161.905 73.437)" fill="#fff"/>
+  </g>
+</svg>

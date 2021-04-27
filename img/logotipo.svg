@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="235" height="40" viewBox="0 0 235 40">
+  <g id="logotipo" transform="translate(-118 -44)">
+    <g id="Elipse_6" data-name="Elipse 6" transform="translate(118 44)" fill="#797777" stroke="#fff" stroke-width="5">
+      <circle cx="20" cy="20" r="20" stroke="none"/>
+      <circle cx="20" cy="20" r="17.5" fill="none"/>
+    </g>
+    <g id="Elipse_7" data-name="Elipse 7" transform="translate(138 44)" fill="#797777" stroke="#fff" stroke-width="5">
+      <circle cx="20" cy="20" r="20" stroke="none"/>
+      <circle cx="20" cy="20" r="17.5" fill="none"/>
+    </g>
+    <g id="Elipse_8" data-name="Elipse 8" transform="translate(158 44)" fill="#797777" stroke="#fff" stroke-width="5">
+      <circle cx="20" cy="20" r="20" stroke="none"/>
+      <circle cx="20" cy="20" r="17.5" fill="none"/>
+    </g>
+    <text id="CONNECT" transform="translate(212 76)" fill="#fff" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">CONNECT</tspan></text>
+  </g>
+</svg>
